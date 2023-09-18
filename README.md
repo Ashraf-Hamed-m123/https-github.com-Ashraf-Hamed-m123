@@ -21,7 +21,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ashraf-hamed-62147427b/" target="_blank"><img src="https://img.shields.io/badge/-Ashraf%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/AshrafHamed01" target="_blank"><img src="https://img.shields.io/badge/-Ashraf%20Hamed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/ashraf.hamed.129142" target="_blank"><img src="https://img.shields.io/badge/-Ashraf%20Hamed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=redhat&logoColor=563D7C)&nbsp;
